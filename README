@@ -5,6 +5,13 @@ Find info about Chuck here: http://chuck.cs.princeton.edu/
 
 INSTRUCTIONS
 
-Paste it to /usr/share/gtksourceview-2.0/language-specs/ and it should work.
+sudo cp /usr/share/gtksourceview-2.0/language-specs/
+
+Restart gedit. It should work and automatically recognize *.ck files as ChucK scripts.
+
 I'm using it with Ubuntu 10.04, but it should be fairly similar with other versions of Ubuntu, GTK or even other OSes.
+
+CONTRIBUTING
+
+Feel free to fork, email sugestions and pinpoint bugs :)
 
